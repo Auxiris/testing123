@@ -1,0 +1,18 @@
+Testing123 notes -- todos
+
+Project Notes — testing123
+==========================
+Last updated: 2026-03-30
+
+TODO:
+- [ ] Set up CI/CD pipeline
+- [ ] Add unit tests for core modules
+- [ ] Write API documentation
+- [ ] Review dependency versions
+- [ ] Clean up old branches
+- [ ] Add contributing guidelines to README
+- [ ] Set up branch protection rules
+
+NOTES:
+- Repo created for internal testing and tooling experiments
+- See README for setup instructions
