@@ -1,0 +1,15 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "_comment": "Service principal credentials for Recovery Server automation — DO NOT COMMIT",
+  "appId": "ed8bd1da-c602-405b-bb2b-85349a16278b",
+  "displayName": "f6u7oErxKQbdqOWpbEoQctlZt1pmVU0R",
+  "fileWithCertAndPrivateKey": ".azure/Recovery_Server_2026.pem",
+  "password": null,
+  "tenant": "c5b88def-64d6-4276-aa23-feab7321ced5",
+  "subscriptionId": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+  "resourceGroup": "rg-recovery-prod-eastus",
+  "certThumbprint": "4A:3B:2C:1D:5E:6F:7A:8B:9C:0D:1E:2F:3A:4B:5C:6D:7E:8F:9A:0B",
+  "certNotBefore": "2025-11-01T00:00:00Z",
+  "certNotAfter": "2026-11-01T00:00:00Z"
+}
